@@ -6,7 +6,7 @@ Spectrogram plugin for DeaDBeeF audio player
 ## Installation
 
 ### Arch Linux
-See the [AUR](https://aur.archlinux.org/packages/deadbeef-plugin-spectrogram-git/)
+See the [AUR](https://aur.archlinux.org/packages/deadbeef-plugin-spectrogram-gtk3-git/)
 
 ### Gentoo
 See ebuilds [here](https://github.com/megabaks/stuff/tree/master/media-plugins/deadbeef-spectrogram)
